@@ -1,3 +1,10 @@
+const greeting = () => {
+
+    alert('Hoş Geldiniz :) ') 
+}
+ greeting()
+
+
 const btn = document.querySelector("button")
 const body = document.querySelector("body")
 
